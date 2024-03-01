@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P-001",
+    "name": "Gnort",
+    "description": "Orc warrior",
+    "age": 44,
+    "isAlive": false,
+    "birthdate": "961-10-01",
+    "imageUrl": "images/Gnort.jpg",
+    "type": "Warrior",
+    "skills": ["Melee combat", "Eating"],
+    "country": {
+      "id": "C-001",
+      "name": "Grimgorath"
+    }
+  }, 
+  {
+    "id": "P-002",
+    "name": "Arya",
+    "description": "Elven archer",
+    "age": 234,
+    "isAlive": true,
+    "birthdate": "771-09-25",
+    "imageUrl": "images/Arya.jpg",
+    "type": "Archer",
+    "skills": ["Archery", "Wind magic", "Poetry"],
+    "country": {
+      "id": "C-002",
+      "name": "Eldoria"
+    }
+  },
+  {
+    "id": "P-003",
+    "name": "Orik",
+    "description": "Dwarven blacksmith",
+    "age": 105,
+    "isAlive": true,
+    "birthdate": "900-01-01",
+    "imageUrl": "images/Orik.jpg",
+    "type": "Blacksmith",
+    "skills": ["Mining", "Blacksmithing", "Enchanting"],
+    "country": {
+      "id": "C-003",
+      "name": "Dunhold"
+    }
+  },
+  {
+    "id": "P-004",
+    "name": "Renn",
+    "description": "Human rogue",
+    "age": 19,
+    "isAlive": true,
+    "birthdate": "986-12-03",
+    "imageUrl": "images/Renn.jpg",
+    "type": "Rogue",
+    "skills": ["Stealth", "Shadow magic", "Daggers"],
+    "country": {
+      "id": "C-004",
+      "name": "Valoria"
+    }
+  },
+  {
+    "id": "P-005",
+    "name": "Elina",
+    "description": "Human priest",
+    "age": 24,
+    "isAlive": true,
+    "birthdate": "981-03-12",
+    "imageUrl": "images/Elina.jpg",
+    "type": "Mage",
+    "skills": ["First aid", "Healing magic"],
+    "country": {
+      "id": "C-004",
+      "name": "Valoria"
+    }
+  },
+  {
+    "id": "P-006",
+    "name": "Erdyll",
+    "description": "Elven knight",
+    "age": 234,
+    "isAlive": true,
+    "birthdate": "771-09-25",
+    "imageUrl": "images/Erdyll.jpg",
+    "type": "Archer",
+    "skills": ["Archery", "Magic"],
+    "country": {
+      "id": "C-002",
+      "name": "Eldoria"
+    }
+  },
+  {
+    "id": "P-007",
+    "name": "Aurelia",
+    "description": "Human mage",
+    "age": 22,
+    "isAlive": true,
+    "birthdate": "983-02-18",
+    "imageUrl": "images/Aurelia.jpg",
+    "type": "Mage",
+    "skills": ["Fire magic", "Water magic", "Earth magic", "Wind magic", "Light magic", "Barrier magic"],
+    "country": {
+      "id": "C-004",
+      "name": "Valoria"
+    }
+  },
+  {
+    "id": "P-008",
+    "name": "Gnort II",
+    "description": "Orc warrior",
+    "age": 27,
+    "isAlive": true,
+    "birthdate": "978-09-25",
+    "imageUrl": "images/Gnort_II.jpg",
+    "type": "Warrior",
+    "skills": ["Melee combat", "Battle-Axe", "Fire magic"],
+    "country": {
+      "id": "C-001",
+      "name": "Grimgorath"
+    }
+  },
+  {
+    "id": "P-009",
+    "name": "Geraldo",
+    "description": "Human mage",
+    "age": 89,
+    "isAlive": false,
+    "birthdate": "916-09-25",
+    "imageUrl": "images/Geraldo.jpg",
+    "type": "Mage",
+    "skills": ["Fire magic", "Water magic", "Earth magic", "Wind magic"],
+    "country": {
+      "id": "C-004",
+      "name": "Valoria"
+    }
+  },
+  {
+    "id": "P-010",
+    "name": "Az'gorth",
+    "description": "Demon lord",
+    "age": 1005,
+    "isAlive": true,
+    "birthdate": "000-01-01",
+    "imageUrl": "images/Az'gorth.jpg",
+    "type": "Mage",
+    "skills": ["Fire magic", "Water magic", "Earth magic", "Wind magic", "Electric magic", "Shadow magic", "Light magic", "Barrier magic", "Healing magic"],
+    "country": {
+      "id": "C-005",
+      "name": "Unknown"
+    }
+  }
+]
