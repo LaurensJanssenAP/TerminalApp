@@ -18,7 +18,11 @@ function filterById(id: string) {
       filterId = persons[i];
     }
   }
-  console.log(filterId);
+  if (filterId) {
+    console.log(filterId);
+  } else {
+    console.log(`No person found with ID ${id}`);
+  }
 }
 do {
   console.log("Welcome to the JSON data viewer!");
@@ -33,11 +37,14 @@ do {
     for (let i = 0; i < persons.length; i++) {
       nameCard(persons[i]);
     }
+    console.log("");
   } else if (input == 2) {
     let id: string = readline.question(
       "Please enter the ID you want to filter by: "
     );
+    console.log("");
     filterById(id);
+    console.log("");
   } else if (input == 3) {
     console.clear();
     console.log("Exiting now.");
