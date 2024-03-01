@@ -6,7 +6,7 @@
     "age": 44,
     "isAlive": false,
     "birthdate": "961-10-01",
-    "imageUrl": "images/Gnort.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Gnort.jpg",
     "type": "Warrior",
     "skills": ["Melee combat", "Eating"],
     "country": {
@@ -21,7 +21,7 @@
     "age": 234,
     "isAlive": true,
     "birthdate": "771-09-25",
-    "imageUrl": "images/Arya.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Arya.jpg",
     "type": "Archer",
     "skills": ["Archery", "Wind magic", "Poetry"],
     "country": {
@@ -36,7 +36,7 @@
     "age": 105,
     "isAlive": true,
     "birthdate": "900-01-01",
-    "imageUrl": "images/Orik.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Orik.jpg",
     "type": "Blacksmith",
     "skills": ["Mining", "Blacksmithing", "Enchanting"],
     "country": {
@@ -51,7 +51,7 @@
     "age": 19,
     "isAlive": true,
     "birthdate": "986-12-03",
-    "imageUrl": "images/Renn.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Renn.jpg",
     "type": "Rogue",
     "skills": ["Stealth", "Shadow magic", "Daggers"],
     "country": {
@@ -66,7 +66,7 @@
     "age": 24,
     "isAlive": true,
     "birthdate": "981-03-12",
-    "imageUrl": "images/Elina.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Elina.jpg",
     "type": "Mage",
     "skills": ["First aid", "Healing magic"],
     "country": {
@@ -81,7 +81,7 @@
     "age": 234,
     "isAlive": true,
     "birthdate": "771-09-25",
-    "imageUrl": "images/Erdyll.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Erdyll.jpg",
     "type": "Archer",
     "skills": ["Archery", "Magic"],
     "country": {
@@ -96,7 +96,7 @@
     "age": 22,
     "isAlive": true,
     "birthdate": "983-02-18",
-    "imageUrl": "images/Aurelia.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Aurelia.jpg",
     "type": "Mage",
     "skills": ["Fire magic", "Water magic", "Earth magic", "Wind magic", "Light magic", "Barrier magic"],
     "country": {
@@ -111,7 +111,7 @@
     "age": 27,
     "isAlive": true,
     "birthdate": "978-09-25",
-    "imageUrl": "images/Gnort_II.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Gnort_II.jpg",
     "type": "Warrior",
     "skills": ["Melee combat", "Battle-Axe", "Fire magic"],
     "country": {
@@ -126,7 +126,7 @@
     "age": 89,
     "isAlive": false,
     "birthdate": "916-09-25",
-    "imageUrl": "images/Geraldo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Geraldo.jpg",
     "type": "Mage",
     "skills": ["Fire magic", "Water magic", "Earth magic", "Wind magic"],
     "country": {
@@ -141,7 +141,7 @@
     "age": 1005,
     "isAlive": true,
     "birthdate": "000-01-01",
-    "imageUrl": "images/Az'gorth.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/LaurensJanssenAP/TerminalApp/master/images/Az'gorth.jpg",
     "type": "Mage",
     "skills": ["Fire magic", "Water magic", "Earth magic", "Wind magic", "Electric magic", "Shadow magic", "Light magic", "Barrier magic", "Healing magic"],
     "country": {
