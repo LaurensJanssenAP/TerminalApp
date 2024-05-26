@@ -1,0 +1,11 @@
+<%- include("partials/header") %>
+    <h1>Home</h1>
+    <p>Welcome to my website</p>
+    <% for(let person of personData) { %>
+        <li>
+            <img src="<%= person.imageUrl %>" alt="<%= person.name %>" style="width:100px;height:auto;"> Name: <%=
+                person.name %>, Age: <%= person.age %>
+                    , Country: <%= person.country.name %>
+        </li>
+        <% } %>
+            <%- include("partials/footer") %>
